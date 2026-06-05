@@ -1,3 +1,7 @@
+# macOS AppleDouble metadata (created on non-HFS volumes)
+._*
+.DS_Store
+
 .pnpm-debug.log
 **/node_modules/
 /dist/
